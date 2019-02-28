@@ -1,4 +1,4 @@
-workshop-base-template
+workshop-base-template (Replace with your workshop title.)
 ===
 
 > === DELETE BELOW THIS LINE ==============
